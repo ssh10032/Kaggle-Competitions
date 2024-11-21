@@ -6,3 +6,5 @@
 
 
 -- build CNN Model V1, Train & Test
+--- public score
+![image](https://github.com/user-attachments/assets/4abbb8f6-88b9-4bc3-a999-1db4c9abade1)
