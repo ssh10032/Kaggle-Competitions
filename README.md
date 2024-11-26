@@ -1,6 +1,7 @@
 # Studying ML/DL solutions with Kaggle Competition
 ## ML Competitions
-1. Car Price Prediction
+1. Binary Prediction of Poisonous Mushrooms
+2. Regression of Used Car Prices
 ## DL Competitions
 1. Aerial Cactus Identification
    + https://www.kaggle.com/competitions/aerial-cactus-identificationsret
