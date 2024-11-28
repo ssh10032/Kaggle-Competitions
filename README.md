@@ -9,3 +9,5 @@
    + https://www.kaggle.com/competitions/aerial-cactus-identificationsret
 2. Plant Pathology 2020 - FGVC7
    + https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7
+3. Pneumonia Detection
+   + https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
