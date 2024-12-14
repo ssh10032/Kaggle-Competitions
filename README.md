@@ -8,7 +8,6 @@
    + https://www.kaggle.com/competitions/playground-series-s4e9
 
 
-
 ## DL Competitions
 1. Aerial Cactus Identification
    + https://www.kaggle.com/competitions/aerial-cactus-identificationsret
