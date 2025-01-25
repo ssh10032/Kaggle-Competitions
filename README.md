@@ -6,7 +6,6 @@
    + https://www.kaggle.com/competitions/playground-series-s4e8
 2. Regression of Used Car Prices
    + https://www.kaggle.com/competitions/playground-series-s4e9
-   + 
 
 ## DL Competitions
 1. Aerial Cactus Identification
