@@ -1,6 +1,5 @@
 # Studying ML/DL solutions with Kaggle Competition
 
-
 ## ML Competitions
 1. Binary Prediction of Poisonous Mushrooms
    + https://www.kaggle.com/competitions/playground-series-s4e8
